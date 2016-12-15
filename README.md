@@ -1,2 +1,3 @@
 # wechat
 insert
+select
